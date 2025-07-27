@@ -52,13 +52,13 @@ With a strong understanding of **mobile UI/UX principles**, **state management p
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ With a strong understanding of **mobile UI/UX principles**, **state management p
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osama25s&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="osama25s trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=osama25s&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -74,13 +74,21 @@ With a strong understanding of **mobile UI/UX principles**, **state management p
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama25s&show_icons=true&locale=en&theme=tokyonight" alt="osama25s" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osama25s&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama25s&theme=tokyonight" alt="osama25s" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama25s&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama25s&layout=compact&theme=tokyonight" alt="osama25s" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama25s&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 📊 Activity Graph *(Optional)*
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osama25s&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true"/>
 </p>
