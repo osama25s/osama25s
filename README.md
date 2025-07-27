@@ -34,14 +34,13 @@
 ## 🧰 Tools & Tech Stack :
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="Android Studio"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" alt="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
 </p>
-
 
 ## 📈 GitHub Stats :
 
