@@ -63,6 +63,14 @@ With a strong understanding of **mobile UI/UX principles**, **state management p
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osama25s&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="osama25s trophies" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
